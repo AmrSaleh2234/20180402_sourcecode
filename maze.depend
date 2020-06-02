@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1588432329 source:e:\code blocks pojects\maze\maze.cpp
+	"maze.h"
+	<bits/stdc++.h>
+
+1588430987 e:\code blocks pojects\maze\maze.h
+
+1588641360 source:e:\code blocks pojects\maze\main.cpp
+	<iostream>
+	"maze.h"
+	<bits/stdc++.h>
+
+1589067590 source:e:\code blocks pojects\updatedmaze\main.cpp
+	<iostream>
+	"maze.h"
+	<bits/stdc++.h>
+
+1589067590 e:\code blocks pojects\updatedmaze\maze.h
+
+1589068516 source:e:\code blocks pojects\updatedmaze\maze.cpp
+	"maze.h"
+	<bits/stdc++.h>
+
+1589069765 source:e:\code blocks pojects\mazev2\main.cpp
+	<iostream>
+	"maze.h"
+	<bits/stdc++.h>
+
+1589655202 e:\code blocks pojects\mazev2\maze.h
+
+1589655202 source:e:\code blocks pojects\mazev2\maze.cpp
+	"maze.h"
+	<bits/stdc++.h>
+
+1591043447 source:e:\code blocks pojects\mazev3\main.cpp
+	<iostream>
+	"maze.h"
+	<bits/stdc++.h>
+
+1589655202 e:\code blocks pojects\mazev3\maze.h
+
+1591043322 source:e:\code blocks pojects\mazev3\maze.cpp
+	"maze.h"
+	<bits/stdc++.h>
+
